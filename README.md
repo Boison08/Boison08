@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Boison08
-- 👀 I’m interested in Artificial Intelligence
+- 👀 I’m interested in Artificial Intelligence / Machine Learning
 - 💞️ I’m looking to collaborate on projects to help build myself
 - 📫 How to reach me use this https://www.linkedin.com/in/simeon-boison
 
